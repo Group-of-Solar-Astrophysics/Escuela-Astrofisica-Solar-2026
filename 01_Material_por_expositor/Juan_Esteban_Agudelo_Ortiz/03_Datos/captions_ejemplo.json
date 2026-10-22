@@ -1,0 +1,62 @@
+[
+ {
+  "id": "20140107_1800_AR11944",
+  "split": "train",
+  "reference": "An active region in the southern hemisphere near the central meridian (S09 E01) with 112 sunspots. It is an elongated bipolar group with penumbra at both ends and an extent above 15 degrees; its largest spot has a large asymmetric penumbra and its interior is compact, with many strong spots. It shows a complex magnetic configuration with opposite-polarity umbrae in one penumbra.",
+  "generated": null
+ },
+ {
+  "id": "20140107_1824_AR11944",
+  "split": "train",
+  "reference": "An active region in the southern hemisphere near the central meridian (S09 E01) with 112 sunspots. It is an elongated bipolar group with penumbra at both ends and an extent above 15 degrees; its largest spot has a large asymmetric penumbra and its interior is compact, with many strong spots. It shows a complex magnetic configuration with opposite-polarity umbrae in one penumbra. An X1.2 flare is in progress.",
+  "generated": null
+ },
+ {
+  "id": "20140107_1824_AR11943",
+  "split": "train",
+  "reference": "An active region in the southern hemisphere on the west side of the disk (S11 W17) with 1 sunspot. It is a small single unipolar sunspot.",
+  "generated": null
+ },
+ {
+  "id": "20140107_1824_AR11945",
+  "split": "train",
+  "reference": "An active region in the northern hemisphere on the west side of the disk (N11 W49) with 1 sunspot. It is a small single unipolar sunspot.",
+  "generated": null
+ },
+ {
+  "id": "20120307_0024_AR11430",
+  "split": "held_out",
+  "reference": "An active region in the northern hemisphere near the central meridian (N19 E13) with 11 sunspots. It is a bipolar group with penumbra at both ends and an extent of at most 10 degrees; its largest spot has a small asymmetric penumbra and few spots lie between its leading and following ends. It shows a complex magnetic configuration with opposite-polarity umbrae in one penumbra.",
+  "generated": "An active region in the southern hemisphere on the west side of the disk (S11 W16) with 11 sunspots. It is a bipolar group with penumbra at both ends and an extent of 10 degrees; its largest spot has a small asymmetric penumbra and many opposite-polarity umbrae. It shows a complex magnetic configuration with two opposite-polarity umbrae in each of two large penumbrae and a predominantly unipolar internegative interior."
+ },
+ {
+  "id": "20121109_1200_AR11609",
+  "split": "held_out",
+  "reference": "An active region in the southern hemisphere on the east side of the disk (S15 E38) with 4 sunspots. It is a bipolar group where one spot has penumbra; its largest spot has a small symmetric penumbra and few spots lie between its leading and following ends.",
+  "generated": "An active region in the southern hemisphere on the east side of the disk (S17 E50) with 1 sunspot. It is a unipolar group with penumbra; its largest spot has a small symmetric penumbra."
+ },
+ {
+  "id": "20131109_1200_AR11892",
+  "split": "held_out",
+  "reference": "An active region in the southern hemisphere on the east side of the disk (S05 E32) with 1 sunspot. It is a small single unipolar sunspot.",
+  "generated": "An active region in the southern hemisphere on the east side of the disk (S10 E10) with 1 sunspot. It shows a unipolar group with spots in a line."
+ },
+ {
+  "id": "20141024_2136_AR12193",
+  "split": "held_out",
+  "reference": "An active region in the northern hemisphere on the west side of the disk (N06 W57) with 8 sunspots. It is a bipolar group with penumbra at both ends and an extent of at most 10 degrees; its largest spot has a small asymmetric penumbra and few spots lie between its leading and following ends. It shows a complex magnetic configuration with opposite-polarity umbrae in one penumbra.",
+  "generated": "An active region in the northern hemisphere on the west side of the disk (N11 E23) with 2 sunspots. It is a small bipolar group with penumbra at both ends and no penumbra in between; few spots lie between the polar ends. It shows a complex magnetic configuration with opposite-polarity umbrae in one penumbra."
+ },
+ {
+  "id": "20140107_1600_AR11942",
+  "split": "held_out",
+  "reference": "An active region in the northern hemisphere on the west side of the disk (N10 W29) with 3 sunspots. It is a bipolar group where one spot has penumbra; its largest spot has a rudimentary penumbra and few spots lie between its leading and following ends.",
+  "generated": "An active region in the southern hemisphere on the west side of the disk (S11 W18) with 1 sunspot. It is a small single unipolar sunspot."
+ },
+ {
+  "id": "20140107_1600_AR11946",
+  "split": "held_out",
+  "reference": "An active region in the northern hemisphere near the central meridian (N09 W02) with 11 sunspots. It is a bipolar group with penumbra at both ends and an extent of at most 10 degrees; its largest spot has a small asymmetric penumbra and its interior is compact, with many strong spots. It shows a complex magnetic configuration with opposite-polarity umbrae in one penumbra.",
+  "generated": "An active region in the northern hemisphere near the central meridian (N15 W18) with 1 sunspot. It is a unipolar sunspot with a small penumbra. It shows a clear magnetic polarity opposite to the direction of the sunspot's leading end."
+ }
+]
