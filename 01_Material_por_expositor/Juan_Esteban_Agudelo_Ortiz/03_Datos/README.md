@@ -11,7 +11,7 @@ Archivos livianos (unos 36 MB en total) que usa el cuaderno `../02_Notebooks/01_
 | `embeddings_ejemplo.npz` | Diez regiones con sus 256 tokens ya reducidos (`embeddings`) y sus identificadores (`ids`) | (10, 256, 1280), `float16` |
 | `captions_ejemplo.json` | Esas diez regiones con su caption de referencia y, para las apartadas del entrenamiento, el caption que generó el modelo | JSON |
 | `resultados_heldout.json` | Las 55 regiones apartadas del entrenamiento: referencia y caption generado | JSON |
-| `secuencia_ejemplo.json` | Descripción de la secuencia que recibe el modelo de lenguaje para dos captions de prueba (posiciones de la imagen, de la pérdida, etc.) | JSON |
+| `secuencia_ejemplo.json` | Descripción de la secuencia que recibe el LLM para un caption real de plantilla (la AR 11892 del 9 nov 2013): posiciones de la imagen, de la loss, etc. Se generó con `build_example` del código de entrenamiento y el tokenizer de Qwen3-8B | JSON |
 
 ## De dónde salen
 
