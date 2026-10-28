@@ -2,6 +2,13 @@
 
 Los artículos no se incluyen en el repositorio por derechos de autor; aquí van los enlaces. Están ordenados para leer de lo general a lo específico.
 
+## Aprendizaje automático en física solar
+
+- Asensio Ramos, A., Cheung, M. C. M., Chifu, I. y Gafeira, R. (2023). *Machine learning in solar physics.* Living Reviews in Solar Physics 20, 1, [doi:10.1007/s41116-023-00038-x](https://doi.org/10.1007/s41116-023-00038-x), [arXiv:2306.15308](https://arxiv.org/abs/2306.15308). La revisión de la que salen los ejemplos de la sesión: segmentación, superresolución, inversión de Stokes, predicción de erupciones y lado lejano.
+- Bobra, M. y Mason, J. *HelioML* (v0.4.0), [helioml.org](https://helioml.org/Introduction/title.html). Nueve capítulos, cada uno con un cuaderno de Jupyter que reproduce un resultado publicado: predicción de CME con SVM, superresolución de HMI (Enhance), DEM con redes (DeepEM), regiones activas del lado lejano (FarNet), regiones fuente del viento solar sin etiquetas y más.
+- Díaz Baso, C. J. y Asensio Ramos, A. (2018). *Enhancing SDO/HMI images using deep learning.* Astronomy & Astrophysics 614, A5.
+- Bobra, M. G. e Ilonidis, S. (2016). *Predicting Coronal Mass Ejections Using Machine Learning Methods.* The Astrophysical Journal 821, 127.
+
 ## Surya y los datos de SDO
 
 - Roy, S. et al. (2025). *Surya: Foundation Model for Heliophysics.* [arXiv:2508.14112](https://arxiv.org/abs/2508.14112). El modelo fundacional que usamos como codificador visual (366 millones de parámetros, 13 canales de SDO, 2 instantes).
