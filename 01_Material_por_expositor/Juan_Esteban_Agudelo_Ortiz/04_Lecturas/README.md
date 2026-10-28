@@ -8,6 +8,7 @@ Los artículos no se incluyen en el repositorio por derechos de autor; aquí van
 - Bobra, M. y Mason, J. *HelioML* (v0.4.0), [helioml.org](https://helioml.org/Introduction/title.html). Nueve capítulos, cada uno con un cuaderno de Jupyter que reproduce un resultado publicado: predicción de CME con SVM, superresolución de HMI (Enhance), DEM con redes (DeepEM), regiones activas del lado lejano (FarNet), regiones fuente del viento solar sin etiquetas y más.
 - Díaz Baso, C. J. y Asensio Ramos, A. (2018). *Enhancing SDO/HMI images using deep learning.* Astronomy & Astrophysics 614, A5.
 - Bobra, M. G. e Ilonidis, S. (2016). *Predicting Coronal Mass Ejections Using Machine Learning Methods.* The Astrophysical Journal 821, 127.
+- Reiss, M. A. et al. (2021). *The Observational Uncertainty of Coronal Hole Boundaries in Automated Detection Schemes.* The Astrophysical Journal 913, 28, [doi:10.3847/1538-4357/abf2c8](https://doi.org/10.3847/1538-4357/abf2c8), [arXiv:2103.14403](https://arxiv.org/abs/2103.14403). De aquí sale la figura de agujeros coronales de la sesión (fig. 8 de la revisión).
 
 ## Surya y los datos de SDO
 
