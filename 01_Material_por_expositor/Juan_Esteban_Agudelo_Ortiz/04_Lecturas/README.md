@@ -35,7 +35,6 @@ Los artículos no se incluyen en el repositorio por derechos de autor; aquí van
 - Shao, M. et al. (2026). *JW-VL: A Vision-language Model for Solar Physics.* Research in Astronomy and Astrophysics 26, 095007, [doi:10.1088/1674-4527/ae5a5d](https://doi.org/10.1088/1674-4527/ae5a5d), [arXiv:2603.28504](https://arxiv.org/abs/2603.28504). Hasta donde sabemos, el trabajo más directo sobre un modelo de visión y lenguaje para física solar; trabaja con imágenes renderizadas, no con los datos físicos.
 - Zaman, S. et al. (2025). *AstroLLaVA: towards the unification of astronomical data and natural language.* [arXiv:2504.08583](https://arxiv.org/abs/2504.08583).
 - Baek, J.-H. et al. (2024). *Deep learning-based solar image captioning.* Advances in Space Research 73, 3270, [doi:10.1016/j.asr.2023.12.066](https://doi.org/10.1016/j.asr.2023.12.066). Conjunto de descripciones de imágenes de SDO (DeepSDO).
-- Darnel, J. M. et al. (2022). *The GOES-R Solar UltraViolet Imager.* Space Weather 20, e2022SW003044, [doi:10.1029/2022SW003044](https://doi.org/10.1029/2022SW003044). El instrumento SUVI de la lámina final.
 
 ## Datos
 
