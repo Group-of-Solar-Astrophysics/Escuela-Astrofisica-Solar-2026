@@ -2,6 +2,7 @@
 
 - `soluciones_ejercicios.ipynb`: soluciones de los cuatro ejercicios del cuaderno de la sesión. Corre con el mismo entorno `escuela-solar` y lee los datos de `../03_Datos`.
 - `exportar_datos_de_la_clase.py`: copia de referencia del script que generó los archivos de `../03_Datos`. **No hace falta ejecutarlo**: necesita los archivos de Surya (600 MB cada uno), una GPU, PyTorch y módulos del repositorio de origen (`vision-language-model-surya`), que no están en este repositorio. Se incluye para que se vea exactamente cómo se obtuvo cada archivo.
+- `exportar_imagenes_regiones.py`: script que recortó las imágenes de `../03_Datos/imagenes_regiones.npz` de los archivos de Surya. Tampoco hace falta ejecutarlo.
 
 ## Para ir más allá (opcional, requiere GPU)
 
