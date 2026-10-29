@@ -1,0 +1,23 @@
+{
+ "prompt": "Describe this solar observation.",
+ "n_visual": 256,
+ "captions": [
+  "An active region in the southern hemisphere on the east side of the disk (S05 E32) with 1 sunspot. It is a small single unipolar sunspot."
+ ],
+ "cases": [
+  {
+   "caption": "An active region in the southern hemisphere on the east side of the disk (S05 E32) with 1 sunspot. It is a small single unipolar sunspot.",
+   "n_tokens": 316,
+   "vision_start_index": 3,
+   "n_image_pad": 256,
+   "vision_end_index": 260,
+   "n_masked": 276,
+   "first_supervised_index": 275,
+   "n_supervised": 40,
+   "supervised_text": "An active region in the southern hemisphere on the east side of the disk (S05 E32) with 1 sunspot. It is a small single unipolar sunspot.<|im_end|>",
+   "last_supervised_token": "<|im_end|>",
+   "last_token_label": -100
+  }
+ ],
+ "source": "build_example de vision-language-model-surya/scripts/sequence.py con el tokenizer de Qwen/Qwen3-8B; caption de referencia de la región AR 11892 (9 nov 2013), plantilla NOAA"
+}
